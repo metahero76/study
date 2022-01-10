@@ -7,7 +7,7 @@ import org.reactivestreams.Subscription;
 public class MySub implements Subscriber<Integer> {
 
     private Subscription s;
-    int buffSize = 15;//하루에 구독할 개수
+    int buffSize = 3;//하루에 구독할 개수
     int currBuffSize = buffSize;//하루에 구독할 개수
     @Override
     public void onSubscribe(Subscription s) {
