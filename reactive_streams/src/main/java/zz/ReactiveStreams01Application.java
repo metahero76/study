@@ -5,7 +5,8 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
 public class ReactiveStreams01Application {
-    //Main
+    //netstat -nao |  findstr 8080
+    //taskkill /f /pid 22572
     public static void main(String[] args) {
         SpringApplication.run(ReactiveStreams01Application.class, args);
 
