@@ -1,4 +1,4 @@
-reactive-streams 라이브러리를 활용한 신문사 구독서비스 예제
+Spring만을 이용한 고전 스트림 방식 - Flux이해를 돕기위해 실습
 
 참조영상)
 https://www.youtube.com/watch?v=o6t2Q017J-s&list=PL93mKxaRDidFH5gRwkDX5pQxtp0iv3guf&index=4
