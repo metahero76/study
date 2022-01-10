@@ -11,4 +11,8 @@ https://www.youtube.com/watch?v=Sz1Ve_1KZII&list=PL93mKxaRDidFH5gRwkDX5pQxtp0iv3
 ![image](https://user-images.githubusercontent.com/96629767/148752409-41c4ee5b-27c8-4457-ab10-1ae5de8592d5.png)
 
 
+테스트 결과)
+
+add주소로 접속하면 see주소창에 데이터가 입력됨
+
 ![image](https://user-images.githubusercontent.com/96629767/148752597-e06b9c51-1650-4da6-a101-ace742cfc442.png)
