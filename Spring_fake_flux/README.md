@@ -1,4 +1,4 @@
-Spring필터를 요용한 스트림 샘플
+reactive-streams 라이브러리를 활용한 신문사 구독서비스 예제
 
 참조영상)
 https://www.youtube.com/watch?v=o6t2Q017J-s&list=PL93mKxaRDidFH5gRwkDX5pQxtp0iv3guf&index=4
