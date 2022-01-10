@@ -5,7 +5,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
 public class ReactiveStreams01Application {
-    //netstat -nao |  findstr 8080
+    //netstat -nao |  findstr 8080 (프로세스번호 찾기)
     //taskkill /f /pid 22572
     public static void main(String[] args) {
         SpringApplication.run(ReactiveStreams01Application.class, args);
