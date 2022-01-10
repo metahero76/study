@@ -1,3 +1,7 @@
+참조자료)
+
+https://www.youtube.com/watch?v=Sz1Ve_1KZII&list=PL93mKxaRDidFH5gRwkDX5pQxtp0iv3guf&index=1
+
 실행)
 
 ![image](https://user-images.githubusercontent.com/96629767/148737551-258f18a5-7ec9-455a-8d00-5a851cea48a7.png)
